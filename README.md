@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Em processo de aprendizagem, atualmente focando em HTML, CSS e JarvaScript.
+
 <div align="center">
   <a href="https://github.com/hernandes32">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hernandes32&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
